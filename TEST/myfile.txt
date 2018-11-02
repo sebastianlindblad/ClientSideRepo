@@ -1,2 +1,4 @@
 /- added on github
 this is a new line
+---------
+This is the bug fix
